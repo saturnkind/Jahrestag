@@ -54,15 +54,12 @@
 })();
 */
 const messages = [
-    "Ești sigură?",
-    "100% sigură?",
-    "Pe bune homic?",
-    "Te rog consideră și varianta da",
-    "Dacă continui să spui nu voi fi foarte trist",
-    "ughm...FOARTE TRIST!!",
-"Glumesc doar, spune da te rog hihi! ❤️",
-    "TE ROG!!!!",
-    "Ultima șansă înainte să nu mai poți spune nu!"
+    "Bist du dir sicher?",
+    "100% sicher?",
+    "Willst du nicht mal gucken?",
+    "Bitte drück auf weiter",
+    "Das halt viel zu lange gedauert",
+    "BITTE!"
    
 ];
 
