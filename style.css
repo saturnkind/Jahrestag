@@ -27,7 +27,7 @@ body {
     padding: 10px 20px;
     margin-right: 10px;
     background-color: #f3f3f3;
-    color: rgb(21, 190, 35);
+    color: rgb(255,133,196);
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -37,7 +37,7 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     background-color: #e5e2e1;
-    color: rgb(225, 16, 16);
+    color: rgb(255,133,196);
     border: none;
     border-radius: 5px;
     cursor: pointer;
